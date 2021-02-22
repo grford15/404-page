@@ -65,6 +65,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://greg-rutherford.com)
-- GitHub [@your-username](https://github.com/grford15)
-- Twitter [@your-twitter](https://twitter.com/gregrutherfor20)
+- Website [www.greg-rutherford.com](https://greg-rutherford.com)
+- GitHub [@grford15](https://github.com/grford15)
+- Twitter [@gregrutherfor20](https://twitter.com/gregrutherfor20)
